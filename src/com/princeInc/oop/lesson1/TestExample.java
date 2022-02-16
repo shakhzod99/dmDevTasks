@@ -1,4 +1,4 @@
-package com.princeInc.lesson1;
+package com.princeInc.oop.lesson1;
 
 public class TestExample {
   public static void main(String[] args) {

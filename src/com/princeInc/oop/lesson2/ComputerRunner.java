@@ -1,4 +1,4 @@
-package com.princeInc.lesson2;
+package com.princeInc.oop.lesson2;
 
 public class ComputerRunner {
     public static void main(String[] args) {
@@ -11,5 +11,6 @@ public class ComputerRunner {
 
         Computer computer3 = new Computer(1050, 32);
         computer3.printState();
+        computer3.load(true);
     }
 }
